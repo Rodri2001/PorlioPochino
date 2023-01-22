@@ -72,3 +72,13 @@ a {
     text-align: center;
     margin-left: 18%;
 }
+
+.CAbout {
+    width: 65%;
+    height: 18%;
+    display: flex;
+    margin-left: 19%;
+    font-size: 23px;
+    background-color: azure;
+
+}
