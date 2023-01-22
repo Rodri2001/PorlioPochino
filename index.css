@@ -102,3 +102,45 @@ a {
     background-color: azure;
 
 }
+
+.card
+{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-left: 26%;
+}
+.cardImg{
+    width: 100%;
+    height: 100px;
+    background-image: url(./Img/1674061204446.jpg);
+    background-size: cover;
+}
+.cardImg1{
+    width: 100%;
+    height: 100px;
+    background-image: url(./Img/porlofio.png);
+    background-size: cover;
+}
+
+.clastitle{
+    background-color: azure;
+    border-radius: 20%;
+}
+.clastitle1{
+    background-color: azure;
+    border-radius: 20%;
+}
+
+.footer{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+    background-color: #f7d6e0;
+    font-size: 2em;
+    text-align: center;
+}
