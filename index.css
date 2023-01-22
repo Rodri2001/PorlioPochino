@@ -45,6 +45,14 @@ a {
     list-style: none;
 }
 
+.ContainerEx{
+    width: 65%;
+    height: 45%;
+    display: flex;
+    margin-left: 19%;
+    font-size: 24px;
+}
+
 #section3{
     display: flex;
     width: 100%;
